@@ -1,7 +1,7 @@
 
 {
-    "name": "Allinonebot",
-    "description": "ALLINONEBOT",
+    "name": "Dinc0011bot",
+    "description": "",
     "repository": "https://github.com/",
     "keywords": [
         "telegram bot",
@@ -10,17 +10,17 @@
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "21364683",
+            "value": "23006024",
             "required": true
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps",       
-            "value": "3c160af344efb5c87de7bb76a7107cd9",
+            "value": "19fd942576cb0075faebf9eb5ceb31db",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Bot token from @Botfather",
-            "value": "8023907692:AAELv_YzyTBvLfFIS1Crck8S5vXuEsXo-5g",
+            "value": "7213487523:AAFm5fsOfp_kvmrLFZFLRFCCWs1LLHjiE88",
             "required": true
         }
     }
